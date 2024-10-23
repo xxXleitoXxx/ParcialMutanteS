@@ -25,7 +25,6 @@ public class Humano extends Base {
     public Boolean esMutante(String[] dna){
 
 
-
     }
 
 
